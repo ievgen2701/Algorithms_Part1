@@ -1,3 +1,5 @@
+package week3;
+
 /*************************************************************************
  *  Compilation:  javac LineSegment.java
  *  Execution:    none
@@ -10,7 +12,7 @@
  *
  *************************************************************************/
 
-public class LineSegment {
+public final class LineSegment {
     private final Point p;   // one endpoint of this line segment
     private final Point q;   // the other endpoint of this line segment
 
